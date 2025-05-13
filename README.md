@@ -29,6 +29,12 @@
 
 <hr style="border: 2px solid #00bcd4; border-radius: 10px;" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MUHAMMAD-HAMMAD-ZUBAIR/MUHAMMAD-HAMMAD-ZUBAIR/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MUHAMMAD-HAMMAD-ZUBAIR/MUHAMMAD-HAMMAD-ZUBAIR/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MUHAMMAD-HAMMAD-ZUBAIR/MUHAMMAD-HAMMAD-ZUBAIR/output/github-snake.svg" />
+</picture>
+
 ## 🌐 Connect With Me
 
 <p align="center">
