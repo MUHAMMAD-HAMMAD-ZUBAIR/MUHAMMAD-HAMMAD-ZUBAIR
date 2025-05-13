@@ -10,14 +10,14 @@
 
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 
-- 🎓 **Intermediate Student** in Computer Science
-- 💻 Passionate about **Problem Solving & Coding**
-- ☁️ Certified **Cloud Applied AI Engineering Program** at **GIAIC**
+- 🎓 <b>Intermediate Student</b> in Computer Science
+- 💻 Passionate about <b>Problem Solving & Coding</b>
+- ☁️ Certified <b>Cloud Applied AI Engineering Program</b> at <b>GIAIC</b>
   - Cloud Computing 🌩️
   - AI/ML 🤖
   - Data-driven Technologies 📊
-- 🗣️ **Diploma in Professional English** for effective global communication
-- 🎯 Aiming to innovate through both **Tech & Soft Skills** 💼
+- 🗣️ <b>Diploma in Professional English</b> for effective global communication
+- 🎯 Aiming to innovate through both <b>Tech & Soft Skills</b> 💼
 
 <hr style="border: 2px solid #00bcd4; border-radius: 10px;" />
 
@@ -73,20 +73,45 @@
 
 ## ⚡ Fun Fact
 
-> 🌱 I believe in **“Kaizen” – Continuous Improvement**, and I blend **Tech & Communication** to make an impactful change!
+> 🌱 I believe in <b>“Kaizen” – Continuous Improvement</b>, and I blend <b>Tech & Communication</b> to make an impactful change!
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+
+<p align="center" style="font-size: 18px; color: #00bcd4; text-shadow: 2px 2px 5px rgba(0, 188, 212, 0.8);">
+  🚀 <b> Let's Connect and Build the Future of Tech Together!</b> 🌐
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🤖+AI+%26+Cloud-333?style=for-the-badge&logo=cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/👨‍💻+Software+Engineer-333?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/🚀+Innovator-333?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/🌍+Global+Communicator-333?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/MUHAMMAD-HAMMAD-ZUBAIR" target="_blank">
+    <img src="https://img.shields.io/badge/Visit+My+GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+  <a href="https://linkedin.com/in/muhammad-hammad-zubair-4046082ba/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/W1N2nETi9hDxt5Rk6V/giphy.gif" width="150" />
+<br />
+<p align="center" style="font-size: 14px; color: #777;">
+  Crafted with ❤️ by Muhammad Hammad Zubair
 </p>
 
+<hr style="border: 2px solid #00bcd4; border-radius: 10px;" />
+
+## 🌟 <b>Stay Curious, Keep Innovating!</b> 🚀
+
+<p align="center" style="font-size: 18px; color: #00bcd4;">
+  <b>Remember:</b> "The only limit is your imagination! Let's make the impossible possible." 🌟
+</p>
+
+<p align="center" style="font-size: 18px; font-weight: bold; color: #ff4081;">
+  🚀 <b>Together, we are the future of tech!</b> 💡
+</p>
+
+<hr style="border: 2px solid #00bcd4; border-radius: 10px;" />
+
+## 😊 <b>Thanks for Visiting!</b> 🌍
+
+<p align="center" style="font-size: 18px; font-weight: bold; color: #ff4081;">
+  <b>Give Yourself Time to Grow & Evolve</b> 🕰️🌱
+</p>
+
+<p align="center" style="font-size: 18px; font-weight: bold; color: #00bcd4
