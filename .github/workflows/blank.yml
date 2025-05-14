@@ -19,7 +19,7 @@ jobs:
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
-          github_user_name: git-bot  # 👈 apna bot username yahan likhein
+          github_user_name: MUHAMMAD-HAMMAD-ZUBAIR  # 👈 apna bot username yahan likhein
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
