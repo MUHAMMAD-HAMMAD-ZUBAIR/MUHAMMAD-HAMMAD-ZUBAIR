@@ -1,6 +1,6 @@
 <!-- Personal Banner Image -->
 <p align="center">
-  <img src="github_banner1.jpg" alt="Muhammad Hammad Zubair Banner" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 188, 212, 0.5);" />
+  <img src="github_banner2.jpg" alt="Muhammad Hammad Zubair Banner" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 188, 212, 0.5);" />
 </p>
 
 <!-- Typing Animation Header with personal information -->
