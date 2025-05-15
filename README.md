@@ -1,8 +1,14 @@
+<!-- Personal Banner Image -->
+<p align="center">
+  <img src="github_banner1.jpg" alt="Muhammad Hammad Zubair Banner" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 188, 212, 0.5);" />
+</p>
+
 <!-- Typing Animation Header with personal information -->
 <h1 align="center">
   <!-- Typing SVG animation for dynamic text display -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&center=true&vCenter=true&width=1100&lines=👨‍💻+MUHAMMAD+HAMMAD+ZUBAIR;🚀+Cloud+%26+AI+Explorer+%40+GIAIC;🎓+CS+Student+%7C+English+Pro+in+Progress;🎯+Continuous+Growth+%26+Innovation&repeat=true" alt="Typing SVG" />
 </h1>
+
 
 <!-- Description Text with styling -->
 <p align="center" style="font-size: 18px; font-weight: bold; color: #00bcd4; text-shadow: 2px 2px 5px rgba(0, 188, 212, 0.8);">
