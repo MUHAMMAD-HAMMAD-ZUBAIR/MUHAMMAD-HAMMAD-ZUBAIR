@@ -74,16 +74,16 @@
 <hr style="border: 2px solid #00bcd4; border-radius: 10px;" />
 
 <!-- GitHub Stats Section with visual graphs -->
-## 📈 GitHub Stats
+## 📈 GitHub Status
 <div align="center">
   <!-- GitHub Readme Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MUHAMMAD-HAMMAD-ZUBAIR&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=MUHAMMAD-HAMMAD-ZUBAIR&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" /> -->
   <br /><br />
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUHAMMAD-HAMMAD-ZUBAIR&theme=tokyonight&hide_border=true&border_radius=20" />
   <br /><br />
   <!-- Top Languages Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MUHAMMAD-HAMMAD-ZUBAIR&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MUHAMMAD-HAMMAD-ZUBAIR&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" /> -->
 </div>
 
 <!-- Horizontal Line with custom style -->
@@ -93,7 +93,7 @@
 ## 🏆 GitHub Achievements
 <p align="center">
   <!-- Display GitHub achievements -->
-  <img src="https://github-profile-trophy.vercel.app/?username=MUHAMMAD-HAMMAD-ZUBAIR&theme=radical&no-frame=true&row=1&margin-w=20" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MUHAMMAD-HAMMAD-ZUBAIR&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
 </p>
 
 <!-- Horizontal Line with custom style -->
